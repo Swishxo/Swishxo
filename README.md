@@ -1,5 +1,11 @@
-## Hi there 👋
+## Stephon T. - Software Developer👋
 
+## About Me!
+I am currently a senior in college attending Valencia College. Prior to college I serverd in the US ARMY for 7 years, fielding and training on many government tech. My plan is to continue to dive in to world of Mobile technology and become a iOS Engineer! My projects [here!]
+()
+## My Projects
+My personal and college work [here!]
+(https://github.com/Swishxo?tab=repositories)
 <!--
 **Swishxo/Swishxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
